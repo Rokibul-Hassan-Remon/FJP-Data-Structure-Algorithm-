@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "cc09454f3a24820e",
+    "type": "split",
+    "children": [
+      {
+        "id": "85632156313c0bd3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea710ac56e8709dc",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb372c5dc74e58a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "69b0ec7aa5c28fb5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40583259ed643719",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2c141a25d4e1b4c4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "ffc8ac895f14483f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 374.5
+  },
+  "right": {
+    "id": "58b079aa682c54e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "d99f66baa416b141",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "581939285830ca85",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2.  Software Engineering/1.  Framework/Asp.NET/3.  ADO.NET/ADO .NET     vs    ORM   vs    EF.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for ADO .NET     vs    ORM   vs    EF"
+            }
+          },
+          {
+            "id": "a87a3fb079404343",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2.  Software Engineering/0.  Programming/2.  Problem solving/2.  Java/1.  FJP/2.  Problem Solving/4. Array/9.  Sub set/3. Code of sub set.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 3. Code of sub set"
+            }
+          },
+          {
+            "id": "4b26e389afe17511",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16694368e19a620e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "N            2.  Software Engineering/0.  Programming/2.  Problem solving/2.  Java/1.  FJP/2.  Problem Solving/4. Array/2.   2-D array/8.  Matrix Multiplication/8. Code of matrix multiplication.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 8. Code of matrix multiplication"
+            }
+          },
+          {
+            "id": "487ef3e209794100",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "workspaces:Manage workspace layouts": false
+    }
+  },
+  "active": "ea710ac56e8709dc",
+  "lastOpenFiles": [
+    "ComputerScience-Engineering-Bangla/README.md",
+    "ComputerScience-Engineering-Bangla",
+    "N            2.  Software Department/1.  Framework/Frontend/CSS/Animated  CSS Learning Site.md",
+    "N            2.  Software Department/1.  Framework/Frontend/HTML/1. Learning Path/1. YouTube.md",
+    "N            2.  Software Department/6.   DSA/DSA Practice with YouTube/Youtube resources.md",
+    "N            2.  Software Department/1.  Framework/Frontend/HTML/1. Learning Path",
+    "N            2.  Software Department/1.  Framework/Frontend/HTML",
+    "N            2.  Software Department/3.  System Design/1. SOLID/3.  Liskov Substitution Principles/1.  Liskov    substitution  Principles.md",
+    "N            2.  Software Department/8. OOP/Delegation/6.  Delegation vs Inheritance.md",
+    "N            2.  Software Department/8. OOP/Delegation/2. Basic Introduction.md",
+    "N            2.  Software Department/8. OOP/Delegation/1. Basic diff bw delegate & Inheritance.md",
+    "Propmpt Engineering/Chatgpt/1. Translation into bangla.md",
+    "N            30.   Website for  daily life/Untitled.md",
+    "Propmpt Engineering/Chatgpt",
+    "Propmpt Engineering",
+    "N            30.   Website for  daily life/Down  YouTube  video Sub.md",
+    "N            30.   Website for  daily life/2. Optimize your search techniquer.md",
+    "N            30.   Website for  daily life/Chatgpt in bangla .pdf",
+    "N           500. Study in Abroad Scholarship/1. Official Websites/1..md",
+    "N            2.  Software Department/8. OOP/3. C#/10 . Cass থেকে  Objection Creation/1 . Cass থেকে  Objection Creation.md",
+    "N            2.  Software Department/8. OOP/Delegation",
+    "N            2.  Software Department/0.  Programming/1.  Programming Language/0. CheatSheet/1. Sites.md",
+    "N            2.  Software Department/0.  Programming/1.  Programming Language/3.  C#/Switch Expression/1. 16 type of pattern matching,cs.pdf",
+    "N            2.  Software Department/0.  Programming/1.  Programming Language/3.  C#/Switch Expression/1. 16 type of pattern matching,cs.pdf.crdownload",
+    "N            2.  Software Department/0.  Programming/1.  Programming Language/3.  C#/Switch Expression",
+    "N            2.  Software Department/6.   DSA/Complete DSA/1. Complete Package/1. Free resources and.md",
+    "N            2.  Software Department/6.   DSA/DSA Free course/Gate CS.md",
+    "N            2.  Software Department/6.   DSA/DSA Free course/YouTube/YouTube Free Resources.md",
+    "N            2.  Software Department/6.   DSA/1. Propositional Logic/YouTube.md",
+    "N            2.  Software Department/1.  Framework/DotNET/2. Asp.NET/Performance/1. Basic Performance Boosting/1. Top 5 hidden performance.md",
+    "N            2.  Software Department/Testing/1. Learning Path/1. YouTube.md",
+    "N            2.  Software Department/Software Engineering/1. Before Starting/1.  A  Wedding  story.md",
+    "N            2.  Software Department/Software Engineering/1. Before Starting/2.  গল্প -- বিয়ের রান্নার মহাযজ্ঞ.md",
+    "N            2.  Software Department/2.  Database/1.  Sql/1. DBMS Theory/0.   Learning Resource/2 .Must clear these concepts.md",
+    "N            2.  Software Department/2.  Database/1.  Sql/1. DBMS Theory/0.   Learning Resource/Interview Question.md",
+    "N            2.  Software Department/2.  Database/1.  Sql/2.  SQL/0.Learning Path/Top 20 SQL.md",
+    "N            2.  Software Department/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
+    "N            2.  Software Department/0.  Programming/1.  Programming Language/3.  C#/9. Threading/2. Concept/Untitled.canvas",
+    "N            2.  Software Engineering/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
+    "Pasted image 20240925094949.png",
+    "Pasted image 20240925093734.png",
+    "Pasted image 20240624140402.png",
+    "N            2.  Software Engineering/0.  Programming/2.  Problem solving/2.  Java/Untitled.canvas",
+    "N            2.  Software Engineering/Linux/Oracle LInux/Untitled.canvas",
+    "Pasted image 20240925093352.png",
+    "Untitled.canvas",
+    "Pasted Image 20241103165415_084.png",
+    "Pasted image 20241101114045.png",
+    "N            3.  AI/Untitled.canvas",
+    "Pasted image 20241030204909.png",
+    "Pasted image 20241030204746.png",
+    "N            2.  Software Engineering/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/8.   Migration/2. Migration Working Flow Visual Studio.canvas",
+    "N            2.  Software Engineering/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/2. program.cs/1.6  DI  and.canvas",
+    "6.  Software Engineering/2.  Database/2.  NoSql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
+    "Pasted image 20240925093414.png",
+    "Excalidraw/Scripts/Downloaded/Create DrawIO file.svg"
+  ]
+}
