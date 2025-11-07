@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/3. Code/1.  Sol v1.md",
+                "file": "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/2. Remove a node existing BST/2. Approach/1. Approach.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1.  Sol v1"
+              "title": "1. Approach"
             }
           },
           {
@@ -212,14 +212,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-kanban:Create new board": false
+      "obsidian-kanban:Create new board": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "35acd457702f52e9",
+  "active": "ffc8ac895f14483f",
   "lastOpenFiles": [
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/2. Remove a node existing BST/3. Code",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/2. Remove a node existing BST/1. Problem Statement/Problem Statement.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/2. Remove a node existing BST/2. Approach/1. Approach.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/2. Remove a node existing BST/2. Approach",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/3. Code/1.  Sol v1.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/2. Remove a node existing BST/1. Problem Statement",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/2. Remove a node existing BST",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/2. Solution approach/2. after solution.md",
-    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/3. Code/1.  Sol v1.md",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/3. Code",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/Untitled.md",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/2. Solution approach/1. Graphical problem.md",
@@ -232,7 +239,6 @@
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/2. Kth level Down/5. Kth level down.md",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/2. Kth level Down",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/1. Pre, In, Post order traversal/5. Pre , In, Post order traversal.md",
-    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/1. Pre, In, Post order traversal",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/8. From Pre-order/3. Solution/1. Sol v1.md",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/8. From Pre-order/2. Approach/1. Approach.md",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/7. From In-order/3. Solution/2. Sol v2.md",
@@ -252,11 +258,6 @@
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/0. Definition of BST/3. BST - 2.svg",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/0. Definition of BST/3. BST - 2.md",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/0. Definition of BST/2. BST -1.svg",
-    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/0. Definition of BST/2. BST -1.md",
-    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/0. Definition of BST/1. Def.  BST.md",
-    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/8. From Pre-order/3. Solution",
-    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/8. From Pre-order/2. Approach",
-    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/8. From Pre-order/1. Statement",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/2. Diameter of a Binary Tree/2. Approach/2.Edge wise.svg",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/2. Diameter of a Binary Tree/2. Approach/1.Node wise.svg",
     "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/2. Diameter of a Binary Tree/1. Problem Statement/2. Solution.svg",
