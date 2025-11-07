@@ -4,20 +4,61 @@
     "type": "split",
     "children": [
       {
-        "id": "85632156313c0bd3",
+        "id": "11d3714a25902bd2",
         "type": "tabs",
         "children": [
           {
-            "id": "ea710ac56e8709dc",
+            "id": "769841559353bb42",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "excalidraw",
+              "state": {
+                "file": "1.  PepCoding FJP/DSA topic/L-1/1. What we gonna covered.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "1. What we gonna covered"
+            }
+          },
+          {
+            "id": "0668426348012499",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1.  PepCoding FJP/DSA topic/L-1/2. Under Binary Tree.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "2. Under Binary Tree"
+            }
+          },
+          {
+            "id": "35acd457702f52e9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/3. Code/1.  Sol v1.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1.  Sol v1"
+            }
+          },
+          {
+            "id": "a350537f9e33b9bc",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "1.  PepCoding FJP/DSA topic/L-1/1. What we gonna covered.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "1. What we gonna covered"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -171,67 +212,66 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "obsidian-kanban:Create new board": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-kanban:Create new board": false
     }
   },
-  "active": "ea710ac56e8709dc",
+  "active": "35acd457702f52e9",
   "lastOpenFiles": [
-    "1.  PepCoding FJP/1.  Technique/Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/3. Part 2 & 3/2. Code.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/3. Part 2 & 3/2. Code.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/3. Part 2 & 3/1. Traverse tree.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/2. Part 1/5 .Thread Link Creation.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/2. Part 1/4. Scenario Explanation.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/2. Part 1/3. Scenario - 1.svg",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/2. Part 1/3. Scenario - 1.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/1. HLD of Morris Traversal/1. HLD of Morris Traversal in 3 step.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/2. Part 1/2. Thread creation Intution.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/3. Part 2 & 3",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/2. Part 1",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/1. HLD of Morris Traversal",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/1. Basic of Morris Traversal/4. Morris Traversal one and only for Binary Tree.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/1. Basic of Morris Traversal/3. Morris Traversal.svg",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/1. Basic of Morris Traversal/3. Morris Traversal.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/1. Basic of Morris Traversal/2. Math. Intution + Logic behind the scene.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/1. Basic of Morris Traversal/1. Why Morris Traversal.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal/1. Basic of Morris Traversal",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/1. Standard of Tree Traversal/5. Tree Traverse.md",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/2. Morris Traversal",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal/1. Standard of Tree Traversal",
-    "1.  PepCoding FJP/1.  Technique/4. Tree Traversal",
-    "1.  PepCoding FJP/1.  Technique/3. Learning Path/1.  Common Pattern.md",
-    "1.  PepCoding FJP/1.  Technique/3. Learning Path",
-    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/10. Return এক জিনিস, Process আরেক জিনিস/1. Learning Path/1.  Common Pattern.md",
-    "1.  PepCoding FJP/1.  Technique/1. Learning Path/1.  Common Pattern.md",
-    "1.  PepCoding FJP/1.  Technique/1. Learning Path",
-    "1.  PepCoding FJP/1.  Technique/Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/3. Part 2 & 3/1. Traverse tree.md",
-    "1.  PepCoding FJP/1.  Technique/Tree Traversal/2. Morris Traversal/2. Implementation of Morris Traversal/2. Part 1/5 .Thread Link Creation.md",
-    "1.  PepCoding FJP/1.  Technique/Tree Traversal/2. Morris Traversal/1. Basic of Morris Traversal/3. Morris Traversal.md",
-    "1.  PepCoding FJP/1.  Technique/Tree Traversal/2. Morris Traversal/1. Basic of Morris Traversal/3. Morris Traversal.svg",
-    "ComputerScience-Engineering-Bangla/README.md",
-    "N            2.  Software Department/1.  Framework/Frontend/CSS/Animated  CSS Learning Site.md",
-    "N            2.  Software Department/1.  Framework/Frontend/HTML/1. Learning Path/1. YouTube.md",
-    "N            2.  Software Department/6.   DSA/DSA Practice with YouTube/Youtube resources.md",
-    "N            2.  Software Department/3.  System Design/1. SOLID/3.  Liskov Substitution Principles/1.  Liskov    substitution  Principles.md",
-    "N            2.  Software Department/8. OOP/Delegation/6.  Delegation vs Inheritance.md",
-    "N            2.  Software Department/8. OOP/Delegation/2. Basic Introduction.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/2. Solution approach/2. after solution.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/3. Code/1.  Sol v1.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/3. Code",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/Untitled.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/2. Solution approach/1. Graphical problem.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/1. Problem Statement/1. Problem statement.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/1. Problem Statement",
+    "1.  PepCoding FJP/DSA topic/L-1/2. Under Binary Tree.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST/1. Insert New value existing BST/2. Solution approach",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/2. BST",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/New folder",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/2. Kth level Down/5. Kth level down.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/2. Kth level Down",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/1. Pre, In, Post order traversal/5. Pre , In, Post order traversal.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/1. Pre, In, Post order traversal",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/8. From Pre-order/3. Solution/1. Sol v1.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/8. From Pre-order/2. Approach/1. Approach.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/7. From In-order/3. Solution/2. Sol v2.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/7. From In-order/3. Solution/2. Correction of base case.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/7. From In-order/3. Solution/1. Sol v1.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/7. From In-order/2. Approach/1. Approach.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/7. From In-order/1. Statement/1. Problem statement.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/3. From Post-order/3. Solution/1. Sol v1.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/3. From Post-order/2. Approach/1. Approach.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/2. Inequality approach/4. Scenario in Drawing.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/2. Inequality approach/3. Issues of 1st approach.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/2. Inequality approach/2. প্রথম দেখায় সমাধান.svg",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/2. Inequality approach/2. প্রথম দেখায় সমাধান.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/1. 1st approach/2. In-order + Array Or List Storage.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/1. 1st approach/1. In order.svg",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/1. 1st approach/1. In order.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/0. Definition of BST/3. BST - 2.svg",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/0. Definition of BST/3. BST - 2.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/0. Definition of BST/2. BST -1.svg",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/0. Definition of BST/2. BST -1.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/4. BST or Not/2. Approach/0. Definition of BST/1. Def.  BST.md",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/8. From Pre-order/3. Solution",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/8. From Pre-order/2. Approach",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST/8. From Pre-order/1. Statement",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/2. Diameter of a Binary Tree/2. Approach/2.Edge wise.svg",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/2. Diameter of a Binary Tree/2. Approach/1.Node wise.svg",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/2. Diameter of a Binary Tree/1. Problem Statement/2. Solution.svg",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/10. Return এক জিনিস, Process আরেক জিনিস/2. Diameter of a Binary Tree/1. Problem Statement/1. Problem Statement.svg",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/9. Size, Max value, Height, Level/4. Height/4.Node wise approach.svg",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/1. Basic Problems/9. Size, Max value, Height, Level/4. Height/2.Edge wise.svg",
+    "1.  PepCoding FJP/2.  Problem Solving/16. Tree/2. Binary Tree/10. Return এক জিনিস, Process আরেক জিনিস/7. Construct BST to In-order/Untitled.canvas",
     "N            2.  Software Department/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
     "N            2.  Software Department/0.  Programming/1.  Programming Language/3.  C#/9. Threading/2. Concept/Untitled.canvas",
     "N            2.  Software Engineering/2.  Database/1.  Sql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas",
-    "Pasted image 20240925094949.png",
-    "Pasted image 20240925093734.png",
-    "Pasted image 20240624140402.png",
     "N            2.  Software Engineering/0.  Programming/2.  Problem solving/2.  Java/Untitled.canvas",
     "N            2.  Software Engineering/Linux/Oracle LInux/Untitled.canvas",
-    "Pasted image 20240925093352.png",
     "Untitled.canvas",
-    "Pasted Image 20241103165415_084.png",
-    "Pasted image 20241101114045.png",
     "N            3.  AI/Untitled.canvas",
-    "Pasted image 20241030204909.png",
     "N            2.  Software Engineering/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/8.   Migration/2. Migration Working Flow Visual Studio.canvas",
-    "N            2.  Software Engineering/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/2. program.cs/1.6  DI  and.canvas",
-    "6.  Software Engineering/2.  Database/2.  NoSql/1. DBMS Theory/1.  Inroduction/1.1.  Visual Structure of Database.canvas"
+    "N            2.  Software Engineering/1.  Framework/Asp.NET/1. ASP.NET/2. Asp.Net Core  Project Based/2. program.cs/1.6  DI  and.canvas"
   ]
 }
